@@ -6,3 +6,5 @@ Hobbie: Ler
 Aprendi a usar Git com SSH, branches e merge
 
 Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
+
+nova alteração
