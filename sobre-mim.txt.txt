@@ -2,3 +2,5 @@ Nome: Pedro Zione Sousa Neto
 Idade : 23 Anos
 Sexo: Masculino
 Hobbie: Ler
+
+Aprendi a usar Git com SSH, branches e merge
